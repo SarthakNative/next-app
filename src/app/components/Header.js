@@ -68,7 +68,7 @@ const Header = () => {
           <IconButton sx={{ p: 0, marginRight: '10px' }}>
             <Avatar
               alt="User Profile"
-              src="/user_profile.jpg"
+              src="./user_profile.jpg"
               sx={{
                 border: '2px solid #f3f4f6',
                 boxShadow: '0 0 5px rgba(0,0,0,0.2)',
